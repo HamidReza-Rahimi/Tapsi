@@ -1,0 +1,35 @@
+@font-face {
+  font-family: "iranSansFN";
+  font-weight: 400;
+  font-style: normal;
+  src: url("/Assets/fonts/IRANSansWeb\(FaNum\).woff");
+}
+
+
+@font-face {
+    font-family: "iranSansFN";
+    font-weight:700;
+    font-style:normal;
+    src: url("/Assets/fonts/IRANSansWeb\(FaNum\)_Bold.woff");
+}
+@font-face {
+  font-family: "iranSansDNFN";
+  font-weight: 400;
+  font-style: normal;
+  src: url("/Assets/fonts/iransansdnweb\(FaNum\).woff");
+}
+
+
+@font-face {
+    font-family: "iranSansDNFN";
+    font-weight:700;
+    font-style:normal;
+    src: url("/Assets/fonts/iransansdnweb\(FaNum\)bold.woff");
+}
+
+
+body,button{
+  font-family: "iranSansFN";
+  /* font-family: "iranSansDNFN"; */
+
+}
