@@ -2530,7 +2530,7 @@ hr {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  margin-bottom: -2rem;
+  margin-bottom: -3rem;
   margin-top: 3rem;
   width: 100%;
 }
@@ -2594,5 +2594,11 @@ hr {
 @media screen and (min-width: 1024px) {
   .responsive__icons {
     zoom: 100%;
+  }
+}
+@media screen and (min-width: 768px) {
+  .end-text {
+    margin-bottom: -5rem;
+    margin-top: 3rem;
   }
 }
